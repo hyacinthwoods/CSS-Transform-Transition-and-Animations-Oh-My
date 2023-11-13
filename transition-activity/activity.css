@@ -1,1 +1,14 @@
 
+button {
+    display: inline-block;
+    padding: 30px 30px;
+    font-size: 30px;
+    text-align: center;
+    background-color: ghostwhite;
+    transition: background-color 2s, color 2s;
+  }
+
+  button:hover {
+    background-color: cornflowerblue;
+    color: ghostwhite;
+  }

@@ -27,9 +27,15 @@ nav {
   opacity: 1;
 }
 
+
+
 @keyframes top {
-  from {}
-  to {}
+  from {
+
+  }
+  to {
+    transform: ;
+  }
 }
 
 @keyframes middle {
